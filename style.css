@@ -1,0 +1,26 @@
+
+body {
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+}
+.container {
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+}
+ 
+.paragraphDiv {
+ font-style: italic;
+}
+
+.img {
+    max-width: 420px;
+    max-height: 300px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+#btn {
+    background-color: rgb(255, 0, 200);
+}
+
+ 
